@@ -15,11 +15,11 @@ I enjoy solving real-world problems through clean, maintainable code and intuiti
 ---
 
 # 🛠 Tech Stack
-<div width="100%">
+<div align="left">
   <table width="100%" style="border-collapse: collapse;">
-    <tr>
-      <th width="20%" style="border: 1px solid #ddd; padding: 8px; text-align: left;"><strong>Категория</strong></th>
-      <th width="80%" style="border: 1px solid #ddd; padding: 8px; text-align: left;"><strong>Технологии</strong></th>
+    <tr width="100%">
+      <th width="20%" style="border: 1px solid #ddd; padding: 8px; text-align: left;"><strong>Category</strong></th>
+      <th width="80%" style="border: 1px solid #ddd; padding: 8px; text-align: left;"><strong>Technologies</strong></th>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;"><strong>Frontend</strong></td>
