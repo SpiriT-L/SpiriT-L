@@ -92,3 +92,13 @@ My goal is not only to learn new technologies but to apply them while building a
 I'm working towards becoming a **Senior Frontend Engineer** who designs scalable applications, contributes to software architecture, mentors other developers, and helps build products that solve real business problems.
 
 I believe great software comes from continuous learning, attention to detail, thoughtful engineering, and a genuine focus on the user experience.
+
+# ⭐ Featured Projects
+
+🚀 Smart Job Tracker
+AI-powered job application tracker
+
+Tech:
+Next.js • TypeScript • Prisma • PostgreSQL • JWT
+
+→ View Project
