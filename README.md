@@ -15,7 +15,7 @@ I enjoy solving real-world problems through clean, maintainable code and intuiti
 ---
 
 # 🛠 Tech Stack
-<div>
+<div align="100%">
   <table width="100%" style="border-collapse: collapse;">
     <tr>
       <th width="20%" style="border: 1px solid #ddd; padding: 8px; text-align: left;"><strong>Категория</strong></th>
