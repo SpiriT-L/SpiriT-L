@@ -1,6 +1,9 @@
 # Hi, I'm Leonid 👋
 
+> **Create. Learn. Improve.**
+
 **Frontend Engineer** • React • Next.js • TypeScript
+
 
 Building scalable web applications with **React**, **Next.js**, and **TypeScript**.
 
