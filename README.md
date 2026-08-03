@@ -15,32 +15,11 @@ I enjoy solving real-world problems through clean, maintainable code and intuiti
 ---
 
 # 🛠 Tech Stack
-<div align="left">
-  <table width="100%" style="border-collapse: collapse;">
-    <tr width="100%">
-      <th width="20%" style="border: 1px solid #ddd; padding: 8px; text-align: left;"><strong>Category</strong></th>
-      <th width="80%" style="border: 1px solid #ddd; padding: 8px; text-align: left;"><strong>Technologies</strong></th>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Frontend</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">
-        React<br>Next.js<br>TypeScript<br>JavaScript<br>HTML5<br>CSS3<br>SCSS<br>Tailwind CSS
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Backend</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">
-        Node.js<br>Prisma ORM<br>PostgreSQL<br>REST API<br>JWT Authentication
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Tools</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">
-        Git<br>GitHub<br>ESLint<br>Prettier<br>Husky<br>lint-staged
-      </td>
-    </tr>
-  </table>
-</div>
+| **Category** | **Technologies** |
+|---------------|------------------|
+| **Frontend** | React<br>Next.js<br>TypeScript<br>JavaScript<br>HTML5<br>CSS3<br>SCSS<br>Tailwind CSS |
+| **Backend** | Node.js<br>Prisma ORM<br>PostgreSQL<br>REST API<br>JWT Authentication |
+| **Tools** | Git<br>GitHub<br>ESLint<br>Prettier<br>Husky<br>lint-staged |
 ---
 
 # 📚 Currently Learning
