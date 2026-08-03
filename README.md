@@ -15,13 +15,32 @@ I enjoy solving real-world problems through clean, maintainable code and intuiti
 ---
 
 # 🛠 Tech Stack
-
-| **Category** | **Technologies** |
-|---------------|------------------|
-| **Frontend** | React<br>Next.js<br>TypeScript<br>JavaScript<br>HTML5<br>CSS3<br>SCSS<br>Tailwind CSS |
-| **Backend** | Node.js<br>Prisma ORM<br>PostgreSQL<br>REST API<br>JWT Authentication |
-| **Tools** | Git<br>GitHub<br>ESLint<br>Prettier<br>Husky<br>lint-staged |
-
+<div align="center">
+  <table width="100%" style="border-collapse: collapse;">
+    <tr>
+      <th width="20%" style="border: 1px solid #ddd; padding: 8px; text-align: left;"><strong>Категория</strong></th>
+      <th width="80%" style="border: 1px solid #ddd; padding: 8px; text-align: left;"><strong>Технологии</strong></th>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Frontend</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        React<br>Next.js<br>TypeScript<br>JavaScript<br>HTML5<br>CSS3<br>SCSS<br>Tailwind CSS
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Backend</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        Node.js<br>Prisma ORM<br>PostgreSQL<br>REST API<br>JWT Authentication
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Tools</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        Git<br>GitHub<br>ESLint<br>Prettier<br>Husky<br>lint-staged
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 # 📚 Currently Learning
